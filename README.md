@@ -23,7 +23,6 @@ You will need an installation of Python, along with the following libraries:
 ---
 
 ## **Why this Project?**  
-
 By working on this project, I aim to understand the steps involved in the data analysis process and see how everything fits together. This work will also help me prepare for more advanced projects that focus on specific aspects of data analysis.  
 Using Python libraries like NumPy, pandas, and Matplotlib makes data analysis more efficient and insightful. These are not just tools for this project—they're essential skills that I can apply to other data-driven challenges in the future.  
 ---
