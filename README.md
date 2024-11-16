@@ -82,5 +82,5 @@ After completing the project, you will:
 
  Clone the repository to your local machine:  
    ```bash
-   git clone [https://github.com/ahmadsaad2/Loan-Data-Analysis-and-Insights][Uploading Part_I_exploration_template.ipynb…]()
+   git clone [https://github.com/ahmadsaad2/Loan-Data-Analysis-and-Insights]
 
